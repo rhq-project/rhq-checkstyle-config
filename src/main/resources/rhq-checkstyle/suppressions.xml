@@ -5,5 +5,5 @@
      "http://www.puppycrawl.com/dtds/suppressions_1_0.dtd">
 
 <suppressions>
-  <!-- an empty default -->
+    <suppress files="nb-configuration.xml" checks="[a-zA-Z0-9]*"/>
 </suppressions>
